@@ -12,9 +12,9 @@ window.onload = function () {
 
             setTimeout(() => {
                 loader.style.display = "none";
-            }, 500);
+            }, 250);
 
-        }, 1000);
+        }, 500);
     }
 
 };
